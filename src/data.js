@@ -64,5 +64,12 @@ export const popularProducts = [
         
         
     },
+    {
+        id:4,
+        img:"https://assets.vogue.com/photos/64b98da1c149451f30a3e87e/master/w_1600%2Cc_limit/22SS5454_IVRY_1.jpg",
+        
+        
+    },
+
 
 ];
